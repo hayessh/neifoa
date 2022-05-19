@@ -8,6 +8,7 @@ Working on the contact.html Sucess html
 Working on the Domain name 5/18/2022
 waiting for Awaiting email confirmation. 5/18/2022
 Paid on Discover card
+copyrights to May 2022
 
 
 
