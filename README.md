@@ -9,6 +9,9 @@ Working on the Domain name 5/18/2022
 waiting for Awaiting email confirmation. 5/18/2022
 Paid on Discover card
 change all html file to copyrights to May 2022
+buid image directory
+
+
 
 
 
