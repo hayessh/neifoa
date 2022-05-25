@@ -10,7 +10,9 @@ waiting for Awaiting email confirmation. 5/18/2022
 Paid on Discover card
 change all html file to copyrights to May 2022
 buid images, icon, js, css directory
-updated the rules.html replace video to http website IHSA
+updated the rules.html replace video to youtube 
+update the about.html 5.25
+
 
 
 
