@@ -12,6 +12,8 @@ change all html file to copyrights to May 2022
 buid images, icon, js, css directory
 updated the rules.html replace video to youtube 
 update the about.html 5.25
+Update the pages to read clinic from meeting.
+
 
 
 
