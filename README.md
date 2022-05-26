@@ -1,18 +1,21 @@
 # neifoa
 Football Website
-Import on 5/6/2022
+5/6/2022 Import on 
 change's to school.html
 Update contact form to include the following
-spam mail completed on Tuesday May 17th 2022
+5/17/2022 spam mail completed on Tuesday 
 Working on the contact.html Sucess html
-Working on the Domain name 5/18/2022
-waiting for Awaiting email confirmation. 5/18/2022
+5/18/2022 Working on the Domain name
+waiting for Awaiting email confirmation. 
 Paid on Discover card
-change all html file to copyrights to May 2022
+5/20/2022 change all html file to copyrights to May 2022
 buid images, icon, js, css directory
 updated the rules.html replace video to youtube 
-update the about.html 5.25
+6/24/2022 neifoa.com was transfer
+5.25.2022  update the about.html 
 Update the pages to read clinic from meeting.
+5.26.2022 Reviewing all pages for load to the internet.
+
 
 
 
