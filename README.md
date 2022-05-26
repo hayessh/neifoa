@@ -15,6 +15,8 @@ updated the rules.html replace video to youtube
 5.25.2022  update the about.html 
 Update the pages to read clinic from meeting.
 5.26.2022 Reviewing all pages for load to the internet.
+Grammer changes to the following pages
+index.html Update's will be posted later in the year 
 
 
 
