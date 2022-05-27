@@ -17,9 +17,16 @@ Update the pages to read clinic from meeting.
 5.26.2022 Reviewing all pages for load to the internet.
 Grammer changes to the following pages
 index.html Update's will be posted later in the year 
+5.27.2022 Following change's to individual pages.
+Change the rightside to Chop Block
 
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&src=OWc1NnJnMW92ZmNmbmkyamtidjBrcTg4OXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%237986CB&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+<a class="weatherwidget-io" href="https://forecast7.com/en/41d59n88d04/60441/" data-label_1="HOMER GLEN" data-label_2="WEATHER" data-theme="beige" >HOMER GLEN WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
 
 
 
