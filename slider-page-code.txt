@@ -41,6 +41,12 @@ span>
 	<span class="top"><strong>Flag Rules for 2022</strong><br /> Update's will be posted later in the year<br />Click the Rule tab for futher 
 information<br /><br /><br /> <br /></span>
 </li>
+
+<li class="sliderImage">
+	<img src="images/banner3.jpg" />
+	<span class="top"><strong>Clinic 2022</strong><br />Pontiac High School.<br />Sunday August 14th<br /
+1:00pm<br />Click the bottom below for more information<br/><a href="Clinic.html">CLINIC</a><br>
+			<br /> <br /> <br /></span>
 			
 		<!-- use this list item if you don NOT want to include a link -->				
 			<li class="sliderImage">
@@ -49,6 +55,15 @@ information<br /><br /><br /> <br /></span>
 		<br /> <br /> <br /></span>
 			</li>
 
+	<li class="sliderImage">
+	<img src="images/banner4.jpg" />
+	<span class="top"><strong>Football Rules Changes </strong><br /> Click the Rule tab for the 2022 rules changes.<br /><br /><br /><br /></span>
+	>
+	class="sliderImage">
+	<img src="images/banner5.jpg" />
+	<span class="top"><strong>>Contact Dean Magro</strong><br />P.O Box 1145<br />Beecher, IL 60401<br />Phone 219-688-0875<br />Click the contact tab for 
+	more information <br /> <br /> <br /></span>
+	>
 			<div class="clear sliderImage"></div>
 		</ul>
 	
