@@ -1,4 +1,4 @@
-// Timothy Framework - www.timothyframework.com 
+// Spiro S Hayes
 
 // This work is licensed under the MIT License - http://www.opensource.org/licenses/mit-license.php
 
