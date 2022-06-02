@@ -18,7 +18,9 @@ Update the pages to read clinic from meeting.
 Grammer changes to the following pages
 index.html Update's will be posted later in the year 
 5.27.2022 Following change's to individual pages.
-Change the rightside to Chop Block
+Change the rightside to Chop Block ruling.
+6.2.2022 Change the slide from 3 second to 5 second
+
 
 
 <a class="weatherwidget-io" href="https://forecast7.com/en/41d59n88d04/60441/" data-label_1="HOMER GLEN" data-label_2="WEATHER" data-theme="beige" >HOMER GLEN WEATHER</a>
@@ -27,7 +29,7 @@ Change the rightside to Chop Block
 </script>
 5.28.22 Corrected one of tab to read link.html.
 
-
+<div id="cont_dd35e81a9ce04289a2046eed57095cfa"><script type="text/javascript" async="" src="https://www.theweather.com/wid_loader/dd35e81a9ce04289a2046eed57095cfa"></script></div>
 
 
 
