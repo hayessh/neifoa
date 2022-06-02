@@ -10,7 +10,7 @@
 	<script type="text/javascript">  // This is the script for the banner slider
 		$(document).ready(function() {
 			$('#slider').s3Slider({
-				timeOut: 3000
+				timeOut: 5000
 			});
 		});
 	</script>
