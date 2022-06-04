@@ -34,8 +34,9 @@ Update's will be posted later in the year
 
 
 6.4.22 Front Row Location
-<!--https://www.google.com/maps/place/14903+Founders+Crossing,+Homer+Glen,+IL+60491/@41.6191158,-87.9313558,17z/
-data=!3m1!4b1!4m5!3m4!1s0x880e4180da34a9e7:0x3de8350b8e576cb2!8m2!3d41.6191158!4d-87.9313558-->
+<https://www.google.com/maps/place/14903+Founders+Crossing,+Homer+Glen,+IL+60491/@41.6191158,-87.9313558,17z/
+data=!3m1!4b1!4m5!3m4!1s0x880e4180da34a9e7:0x3de8350b8e576cb2!8m2!3d41.6191158!4d-87.9313558
+Change banner 2 on all pages!!
 
 
 
