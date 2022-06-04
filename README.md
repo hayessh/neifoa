@@ -20,8 +20,9 @@ index.html Update's will be posted later in the year
 5.27.2022 Following change's to individual pages.
 Change the rightside to Chop Block ruling.
 6.2.2022 Change the slide from 3 second to 5 second
-
-
+6.3.2022
+Flag Rules for 2022
+Update's will be posted later in the year
 
 <a class="weatherwidget-io" href="https://forecast7.com/en/41d59n88d04/60441/" data-label_1="HOMER GLEN" data-label_2="WEATHER" data-theme="beige" >HOMER GLEN WEATHER</a>
 <script>
@@ -32,6 +33,9 @@ Change the rightside to Chop Block ruling.
 <div id="cont_dd35e81a9ce04289a2046eed57095cfa"><script type="text/javascript" async="" src="https://www.theweather.com/wid_loader/dd35e81a9ce04289a2046eed57095cfa"></script></div>
 
 
+6.4.22 Front Row Location
+<!--https://www.google.com/maps/place/14903+Founders+Crossing,+Homer+Glen,+IL+60491/@41.6191158,-87.9313558,17z/
+data=!3m1!4b1!4m5!3m4!1s0x880e4180da34a9e7:0x3de8350b8e576cb2!8m2!3d41.6191158!4d-87.9313558-->
 
 
 
