@@ -36,7 +36,8 @@
 	height:300px; /* This is the height of the caption box  */
     background-color: #000;  /* This sets the background color of the semi transparent box */
     /* If you do not want the transparent content field to appear, change all opacity values to 0 */
-	filter: alpha(opacity=70); -moz-opacity: 07; -khtml-opacity: 07; opacity: 07;
+	filter: alpha(opacity=70); -moz-opacity: 07; -khtml-opacity: 07; opacity: 07; */
+	filter: alpha(opacity=0); -moz-opacity: 0; -khtml-opacity: 0; opacity: 0;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:12px;
 	line-height:150%;
