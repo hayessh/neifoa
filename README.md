@@ -24,12 +24,9 @@ Change the rightside to Chop Block ruling.
 Flag Rules for 2022
 Update's will be posted later in the year
 
-<a class="weatherwidget-io" href="https://forecast7.com/en/41d59n88d04/60441/" data-label_1="HOMER GLEN" data-label_2="WEATHER" data-theme="beige" >HOMER GLEN WEATHER</a>
-<script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-</script>
 5.28.22 Corrected one of tab to read link.html.
 
+Weather Widget
 <div id="cont_dd35e81a9ce04289a2046eed57095cfa"><script type="text/javascript" async="" src="https://www.theweather.com/wid_loader/dd35e81a9ce04289a2046eed57095cfa"></script></div>
 
 
