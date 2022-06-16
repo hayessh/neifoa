@@ -50,12 +50,14 @@ h1, h2, h3, h4, h5, h6, p, li, blockquote, td, th, a, caption, em, strong, strik
 	}
 
 ol, ul { list-style: none; }
-
+ul.a { list-style: circle; font-size: 14px }
+ul.b { list-style: square; font-size: 16px}
 
 /* Global */
 
 html 	{	}
-body	{ background-color:#ccc; text-align:center;	}
+/* body	{ background-color:#FFFFCC; text-align:center;	}*/
+body	{ background-image:url('../images/a2.jpg'); background-repeat:no-repeat; padding-right: 50px;text-align:center;}
 
 
 
@@ -69,7 +71,6 @@ h3 { font-size:16px; }
 h4 { font-size:14px; }
 h5 { font-size:14px; }
 h6 { font-size:14px; }
-h7 { font-size:24px: }
 
 h1 img, h2 img, h3 img, h4 img, h5 img, h6 img { margin: 0; }
 
@@ -153,7 +154,9 @@ code, pre		{ background-color:#FF9; padding:2px 0px; margin:4px 25px;
 #top				{ background-color:#000; width:100%; overflow: hidden; padding:15px 0;
 						border-bottom:#eee; 	}
 
+/*#logo	 			{ float:left; margin:0 0 0 10px;  }*/
 #logo	 			{ float:left; margin:0 0 0 10px;  }
+
 
 #social-media			{ float:right; margin:0 10px 0 0; text-align:left; }
 #social-media ul 		{	}
@@ -174,13 +177,17 @@ code, pre		{ background-color:#FF9; padding:2px 0px; margin:4px 25px;
 #banner 			{   }
 
 #subbanner 			{ width:100%; background-color:#555; overflow:hidden; padding:10px 0;   }
-#subbanner p		{ line-height:180%; font-size:16px; font-weight:bold; color:#fff; text-align:center;  }
+#subbanner p		{ line-height:150%; font-size:12px; font-weight:bold; color:#FFFF99; text-align:left; padding:5px; }
+#subbanner h3       { font-size:16px; width: 100; text-align:center; color:#FFFFFF; margin:10px 0;}
+#subbanner h1       {font-size: 26px; text-align:center; color:Tomato; }
 
-#rightside 			{ padding:20px; margin-left:670px;  }
+
+#rightside 			{ padding:20px; margin-left:670px; }
+#rightsidea 		{ padding:20px; margin-left:670px;  }
 #rightside h2		{width: 50%; text-align:center; color:#600; margin:20px 0 10px 0;}
 #rightside h3       {width: 60; text-align:center; color:#600; margin:20px 0 10px 0;}
 #rightside h4 		{width: 60; text-align:center; color:#600; margin:20px 0 10px 0;}
-
+#rightside ul li a
 #rightside p		{ text-align:left; right:150%; margin:5px 0; }
 
 #content 			{ float:left; width:650px; padding:20px;  }
