@@ -8,7 +8,7 @@
 /* Reset */
 
 html, body { margin: 0; padding: 0; border: 0;  
-				background: transparent; font-size:10px; }
+				background: transparent; font-size:12px; }
 
 div, span, article, aside, footer, header, hgroup, nav, section,
 h1, h2, h3, h4, h5, h6, p, blockquote, a, ol, ul, li, 
@@ -49,9 +49,47 @@ h1, h2, h3, h4, h5, h6, p, li, blockquote, td, th, a, caption, em, strong, strik
 	color: #000;
 	}
 
-ol, ul { list-style: none; }
+/*ol, ul { list-style: none; } change 6.19.2022 */
+
+ol, ul {  list-style-position: outside; }
 ul.a { list-style: circle; font-size: 14px }
 ul.b { list-style: square; font-size: 16px}
+
+
+.styled {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  list-style-position:outside;
+}
+.styled li {
+  padding-left: 1rem;
+  text-indent: -1.rem;
+  list-style-position: outside;
+  font-family:Arial;
+  font-size:14px;
+}
+
+.styled li::before {
+  content: "\01F3C8";
+  list-style-position: outside; 
+  font-family:Arial;
+  font-size:14px;
+
+}
+
+.emoji-list {  list-style-type: none; /* remove default bullet */}
+
+ul.emoji-list > li:before {
+			content: "\01F3C8";
+			 list-style-position: outside; 	  /* spacing between bullet and text *//* create the pseudo-element and add emoji 🏈*/
+			 }
+
+ul .emoji-list > li:hover:before {
+	content: "\01F3C8";
+	 list-style-position: outside;      /* content: "🏉"; change the emoji on hover!  content: "\01F3C8"; */
+	
+}
 
 /* Global */
 
@@ -70,7 +108,7 @@ h2 { font-size:20px; }
 h3 { font-size:16px; }
 h4 { font-size:14px; }
 h5 { font-size:14px; }
-h6 { font-size:14px; }
+h6 {  text-align:center;  font-size:20px; }
 
 h1 img, h2 img, h3 img, h4 img, h5 img, h6 img { margin: 0; }
 
@@ -100,11 +138,11 @@ em		      	{ font-style: italic; }
 
 /* Lists */
 
-ul          	{  }
+ul          	{  list-style-position: outside; }
 ol          	{ list-style-type:decimal; }
 
-ul li		    { color:#000; font-size:12px; }
-ol li	     	{ color:#000; font-size:12px; }
+ul li		    { color:#000; font-size:12px;  list-style-position: outside; }
+ol li	     	{ color:#000; font-size:12px;  list-style-position: outside; }
 
 dl          	{  	}
 dt       		{  	}
@@ -193,11 +231,11 @@ code, pre		{ background-color:#FF9; padding:2px 0px; margin:4px 25px;
 #content 			{ float:left; width:650px; padding:20px;  }
 #content h1			{ margin:0 0 20px 0; border-bottom:1px #999999 solid; padding:20px 0; }
 #content h2			{ margin:10px 0; }
-#content p			{ line-height:150%; margin:10px 10px 0 0; }
+#content p			{ line-height:150%; margin:10px 10px 0 0; line-height: normal } /*font-size: 10px; */
 #content img		{ padding:8px; border:1px #cccccc solid; margin:8px; }
 
 #school 			{ float:left; width:650px; padding:20px;  }
-#school p			{ line-height:150%; margin:10px 10px 0 0; }
+#school p			{ line-height:120%; margin:10px 10px 0 0; }
 #schoolcenter   	{ float:center; width:400px; padding:20px;  }
 #dchoolcenter p		{ line-height:150%; margin:10px 10px 0 0; }
 
@@ -355,3 +393,4 @@ ol {
   margin-right: 0;
   padding-left: 40px;
 }
+
