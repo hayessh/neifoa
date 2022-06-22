@@ -17,9 +17,6 @@ Update the pages to read clinic from meeting.
 5.26.2022 Reviewing all pages for load to the internet.
 Grammer changes to the following pages
 index.html Update's will be posted later in the year 
-5.27.2022 Following change's to individual pages.
-Change the rightside to Chop Block ruling.
-6.2.2022 Change the slide from 3 second to 5 second
 6.3.2022
 Flag Rules for 2022
 Update's will be posted later in the year
@@ -34,6 +31,21 @@ Weather Widget
 <https://www.google.com/maps/place/14903+Founders+Crossing,+Homer+Glen,+IL+60491/@41.6191158,-87.9313558,17z/
 data=!3m1!4b1!4m5!3m4!1s0x880e4180da34a9e7:0x3de8350b8e576cb2!8m2!3d41.6191158!4d-87.9313558
 Change banner 2 on all pages!!
+6.21.2022
+Remove all banners
+Build a new logo 
+Remove the about.html
+Added the meeting
+Updated the following files
+1.0 index.html
+2.0 contact.html
+3.0 school.html
+3.0 clinic.html
+4.0 rules.html
+5.0 useful link.html
+6.0 meeting.html Delete code 
+7.0 style.css
+
 
 
 
