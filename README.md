@@ -38,7 +38,7 @@ Remove the about.html
 Added the meeting
 Updated the following files
 1.0 index.html
-2.0 contact.html
+2.0 contact.html 6.23.2022 added Dean Magro Email Address
 3.0 school.html
 3.0 clinic.html
 4.0 rules.html
