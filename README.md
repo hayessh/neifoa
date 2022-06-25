@@ -45,6 +45,8 @@ Updated the following files
 5.0 useful link.html
 6.0 meeting.html Delete code 
 7.0 style.css
+6.25.2022
+Add the hayeslist CSS list-style-type Property
 
 
 

@@ -54,6 +54,8 @@ h1, h2, h3, h4, h5, h6, p, li, blockquote, td, th, a, caption, em, strong, strik
 ol, ul {  list-style-position: outside; }
 ul.a { list-style: circle; font-size: 14px }
 ul.b { list-style: square; font-size: 16px}
+ol.c {list-style-type: upper-roman;}
+ol.s {list-style-type: upper-greek;}
 
 
 .styled {
