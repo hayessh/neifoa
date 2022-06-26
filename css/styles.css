@@ -80,7 +80,9 @@ ol.s {list-style-type: upper-greek;}
 
 }
 
-.emoji-list {  list-style-type: none; /* remove default bullet */}
+.emoji-list {  list-style-type: none;
+	           font-family:Arial;
+	           font-size:14px; /* remove default bullet */}
 
 ul.emoji-list > li:before {
 			content: "\01F3C8";
@@ -88,8 +90,8 @@ ul.emoji-list > li:before {
 			 }
 
 ul .emoji-list > li:hover:before {
-	content: "\01F3C8";
-	 list-style-position: outside;      /* content: "🏉"; change the emoji on hover!  content: "\01F3C8"; */
+				content: "\01F3C8";
+				 list-style-position: outside;      /* content: "🏉"; change the emoji on hover!  content: "\01F3C8"; */
 	
 }
 
