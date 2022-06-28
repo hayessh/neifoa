@@ -53,10 +53,11 @@ h1, h2, h3, h4, h5, h6, p, li, blockquote, td, th, a, caption, em, strong, strik
 
 ol, ul {  list-style-position: outside; }
 ul.a { list-style: circle; font-size: 14px }
-ul.b { list-style: square; font-size: 16px}
-ol.c {list-style-type: upper-roman;}
-ol.s {list-style-type: upper-greek;}
-
+ul.b { list-style: square; 
+       list-style-position:outside;
+       font-family:Arial;
+      font-size: 20px;
+}
 
 .styled {
   list-style: none;
@@ -68,9 +69,10 @@ ol.s {list-style-type: upper-greek;}
   padding-left: 1rem;
   text-indent: -1.rem;
   list-style-position: outside;
-  font-family:Arial;
+   font-family:Arial;
   font-size:14px;
-}
+
+  }
 
 .styled li::before {
   content: "\01F3C8";
@@ -80,9 +82,7 @@ ol.s {list-style-type: upper-greek;}
 
 }
 
-.emoji-list {  list-style-type: none;
-	           font-family:Arial;
-	           font-size:14px; /* remove default bullet */}
+.emoji-list {  list-style-type: none; /* remove default bullet */}
 
 ul.emoji-list > li:before {
 			content: "\01F3C8";
@@ -90,8 +90,8 @@ ul.emoji-list > li:before {
 			 }
 
 ul .emoji-list > li:hover:before {
-				content: "\01F3C8";
-				 list-style-position: outside;      /* content: "🏉"; change the emoji on hover!  content: "\01F3C8"; */
+	content: "\01F3C8";
+	 list-style-position: outside;      /* content: "🏉"; change the emoji on hover!  content: "\01F3C8"; */
 	
 }
 
