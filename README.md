@@ -47,7 +47,6 @@ Updated the following files
 7.0 style.css
 6.25.2022
 Add the hayeslist CSS list-style-type Property
-
 Mission Statement
 
 
