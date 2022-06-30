@@ -49,8 +49,13 @@ Updated the following files
 Add the hayeslist CSS list-style-type Property
 Mission Statement
 
+6/23  Change in Power Rating calculation
 
-
+To: Licensed IHSA Officials
+From: Kurt Gibson
+Date: June 24, 2022
+Re.: Change in Power Rating calculation
+https://center.ihsa.org/go/officials-center/show-messages.asp
 
 
 
