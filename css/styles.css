@@ -201,7 +201,7 @@ code, pre		{ background-color:#FF9; padding:2px 0px; margin:4px 25px;
 
 /* Containers */
 
-#wrapper 			{ width:900px; margin:0 auto; background-color:#fff;  }
+#wrapper 			{ width:900px; margin:0 auto; background-color:#fff;  } /* #fff white */
 
 #top				{ background-color:#000; width:100%; overflow: hidden; padding:15px 0;
 						border-bottom:#eee; 	}
