@@ -54,8 +54,11 @@ Mission Statement
 To: Licensed IHSA Officials
 From: Kurt Gibson
 Date: June 24, 2022
-Re.: Change in Power Rating calculation
-https://center.ihsa.org/go/officials-center/show-messages.asp
+Re.: Change in Power Rating calculation Letter
+Downloader to a PDF
+7.2.2022
+neifoa.com is online
+Correcting forth comming.
 
 
 
