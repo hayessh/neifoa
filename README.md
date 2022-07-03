@@ -58,7 +58,12 @@ Re.: Change in Power Rating calculation Letter
 Downloader to a PDF
 7.2.2022
 neifoa.com is online
+7.3.2022
 Correcting forth comming.
+index page
+meeting page
+link page
+
 
 
 
