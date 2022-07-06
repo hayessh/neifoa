@@ -45,11 +45,17 @@
 	}
 	</style>
 	
-		<?php
+		 <!--<?php
 		echo "<pre>";
 		print_r($_POST);
 		echo '</pre>';
 		?> -->
+<?php
+if(isset($_POST['name'], $_POST['email'], $_POST['query’])) { if(isset($_POST['title']) && ! empty($_POST['title'])) { die();
+}
+echo 'Sends us an email';
+}
+
 
 </head>
 
