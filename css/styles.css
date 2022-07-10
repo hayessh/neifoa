@@ -239,7 +239,9 @@ code, pre		{ background-color:#FF9; padding:2px 0px; margin:4px 25px;
 #rightside h2		{width: 50%; text-align:center; color:#600; margin:20px 0 10px 0;}
 #rightside h3       {width: 60; text-align:center; color:#600; margin:20px 0 10px 0;}
 #rightside h4 		{width: 60; text-align:center; color:#600; margin:20px 0 10px 0;}
-#rightside ul li a
+#rightside ul li a   {   }
+	
+}
 #rightside p		{ text-align:left; right:150%; margin:5px 0; }
 
 #content 			{ float:left; width:650px; padding:20px;  }
