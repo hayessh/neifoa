@@ -63,6 +63,8 @@ Correcting forth comming.
 index page
 meeting page
 link page
+7/16 neifoa.com is up and running
+The following updates will be continue.
 
 
 
