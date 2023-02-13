@@ -65,7 +65,8 @@ meeting page
 link page
 7/16 neifoa.com is up and running
 The following updates will be continue.
-
+2.13.23 Updated the following pages
+index, clinic and meeting
 
 
 
